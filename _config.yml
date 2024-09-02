@@ -25,6 +25,8 @@ mastodon_username: "@patridge@hachyderm.io"
 twitter_username: patridgedev
 github_username:  patridge
 
+rss: rss
+
 # Build settings
 theme: minima
 plugins:
