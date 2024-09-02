@@ -16,13 +16,19 @@
 # Site settings
 # Used in content via {{ site.myvariable }}
 title: PatridgeDev
+author: "Adam Patridge"
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software developer obsessed with helping others do more with training, tooling, and automation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon_username: "@patridge@hachyderm.io"
-twitter_username: patridgedev
+# TODO: url: "http://www.patridgedev.com" # the base hostname & protocol for your site, e.g. http://example.com
+# TODO: google_analytics: "G-3WN7RP75N7"
+linkedin_username: "adampatridge"
+
+mastodon:
+  - username: patridge
+    instance: hachyderm.io
+# twitter_username: patridgedev
 github_username:  patridge
 
 rss: rss
