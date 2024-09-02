@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Develop and test loaded PowerShell modules"
-date: 2019-09-27 13:30:44 - 000
+date: Fri, 27 Sep 2019 13:30:44 +0000
 tags: command-line
 # category: dev
 excerpt_separator: <!--more-->

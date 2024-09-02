@@ -2,7 +2,7 @@
 layout: post
 title: "Develop and test loaded PowerShell modules"
 date: 2023-02-28 20:52:33 -0600
-tags: command-line powershell
+tags: command-line PowerShell
 # category: dev
 excerpt_separator: <!--more-->
 ---
@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 I have a slowly evolving PowerShell script, more of a set of copy-paste commands at this point, that is evolving into a [full-fledged module](https://learn.microsoft.com/en-us/powershell/scripting/developer/module/how-to-write-a-powershell-script-module?view=powershell-7.3). I'm working on this module from my usual code location, but I still wish to be able to test it as if it were a registered module.
 
 There are probably a few ways to do this, but here is how I'm making it work, as well as a bonus method that might be a solution for more serious PowerShell module developers. For the primary approach, we'll make Windows think the PowerShell script file is actually in a proper module location.
+
 <!--more-->
 
 ## Setup option
