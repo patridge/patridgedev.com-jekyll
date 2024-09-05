@@ -32,6 +32,14 @@ mastodon:
 github_username:  patridge
 
 rss: rss
+# paginate: 10
+# paginate_path: "/page/:num/"
+pagination:
+  enabled: true
+  debug: false
+  per-page: 10
+  permalink: "/page/:num/"
+  title: ":title - page :num"
 
 # Build settings
 theme: minima

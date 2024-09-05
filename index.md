@@ -4,4 +4,6 @@
 
 layout: home
 show_excerpts: true
+pagination: 
+  enabled: true
 ---
