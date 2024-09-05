@@ -30,7 +30,9 @@ layout: default
   {%- endif -%}
 </div>
 
-<!-- <div>
+{% comment %}
+<!-- DEBUG: For listing all the tags -->
+<div>
     {% for tag in site.tags %}
     <h3>{{ tag[0] }}</h3>
     <ul>
@@ -39,4 +41,5 @@ layout: default
         {% endfor %}
     </ul>
     {% endfor %}
-</div> -->
+</div>
+{% endcomment %}
