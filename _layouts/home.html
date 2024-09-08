@@ -6,7 +6,7 @@ layout: default
   {{ content }}
 
   {% if paginator.posts %}
-  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  {% comment %}<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>{% endcomment %}
   <ul class="post-list">
     {% for post in paginator.posts %}
     <li>
