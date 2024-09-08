@@ -3,10 +3,6 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
   {{ content }}
 
   {% if paginator.posts %}
@@ -31,12 +27,12 @@ layout: default
   <ul>
     {% if paginator.previous_page %}
     <li>
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer posts</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li>
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older posts</a>
     </li>
     {% endif %}
   </ul>
