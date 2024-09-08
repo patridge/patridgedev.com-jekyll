@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Develop and test loaded PowerShell modules"
+title: "Copy command line output to the clipboard on macOS, Windows, and Linux"
 date: Fri, 27 Sep 2019 13:30:44 +0000
 tags: command-line
 # category: dev
