@@ -37,9 +37,9 @@ rss: rss
 pagination:
   enabled: true
   debug: false
-  per-page: 10
-  permalink: "/page/:num/"
-  title: ":title - page :num"
+  # title: ":title - page :num" # Doesn't seem to do anything
+  # per_page: 10
+  # permalink: "/page/:num/"
 
 # Build settings
 theme: minima
