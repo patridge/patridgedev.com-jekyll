@@ -13,6 +13,8 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 
+# NOTE: Changes seem to require restart of dev host.
+
 # Site settings
 # Used in content via {{ site.myvariable }}
 title: PatridgeDev
@@ -46,6 +48,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
+
+header_link_ignore_urls:
+  - "/smudges/smudges-privacy-policy/"
+  - "/index.html"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

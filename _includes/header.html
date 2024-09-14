@@ -17,11 +17,21 @@
         </label>
 
         <div class="trigger">
+          {%- comment -%}
+            With paginate, it's adding a link to site.header_pages for each page generated (bug?).
+            We could limit to pages with unique titles. But since I don't want any of the paginated pages in the header, I'm just going to ignore them all (and more).
+            % assign rendered_page_urls = "" | split: ","
+            % unless rendered_page_urls contains my_page.url
+              % assign rendered_page_urls = rendered_page_urls | push: my_page.url
+          {%- endcomment -%}
+          {% assign ignored_page_urls = site.header_link_ignore_urls %}
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
+            {% unless ignored_page_urls contains my_page.url %}
+              {%- if my_page.title -%}
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {%- endif -%}
+            {% endunless %}
           {%- endfor -%}
         </div>
       </nav>
