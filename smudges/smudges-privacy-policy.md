@@ -8,13 +8,13 @@ permalink: /smudges/smudges-privacy-policy/
 
 You found the [Smudges](http://pdev.co/smudges_ios) privacy policy, a requirement for getting Smudges on the App Store since it is designed with children as the target users. To find more information about the game itself, check out the [Smudges page](/smudges/).
 
-##Types of Information Collected
+## Types of Information Collected
 
 Currently...none. Smudges does not collect any information at this time.
 
 Future updates may collect non-personal usage and technical data.
 
-##How Collected Data is Used
+## How Collected Data is Used
 
 Since nothing is collected at this point, no data is available for use.
 
@@ -24,11 +24,11 @@ When non-personal usage and technical data is collected, it will be used for imp
 
 Any social interactions between users playing Smudges will only happen within the physical presence of that other user. There are no social/chat aspects to Smudges that might expose you to in-app inappropriate content from other players.
 
-##Changes to this Policy
+## Changes to this Policy
 
 As this policy changes, it will be updated here. Please periodically check this privacy policy at [http://pdev.co/smudgesprivacy](http://pdev.co/smudgesprivacy) for any changes.
 
-##_Notice to California Residents_
+## _Notice to California Residents_
 
 Apparently, residents of California are permitted to request information about the disclosure of their personal information when they use Smudges in the state of California. Since Smudges doesn't collect any personal information, such requests will receive an email reiterating this sentence.
 
