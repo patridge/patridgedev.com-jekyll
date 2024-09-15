@@ -8,13 +8,15 @@ Adam Patridge (Cheyenne, WY) – [[LinkedIn]](https://www.linkedin.com/in/adampa
 
 ## What I do
 
-I'm currently a Senior Software Engineer at Microsoft (opinions are mine), working on internal programs that enable our data scientists and partners to guide content production and evaluate marketing efforts for Microsoft's educational platform, [Microsoft Learn Docs and Training](https://learn.microsoft.com/), Previously, I've managed the programs for handling content update and improvement systems as well as developing several of the processes that launched the [Microsoft Learn Training](https://aka.ms/learn) platform, a free learning platform with a sandbox system allowing users to practice on the products they are learning without having to worry about Azure costs or resource clean-up.
+I'm currently a Senior Software Engineer at Microsoft (opinions are mine), working on internal programs that enable our data scientists and partners to guide content production and evaluate marketing efforts for Microsoft's educational platform, [Microsoft Learn Docs and Training](https://learn.microsoft.com/).
 
-While I am often buried in internal Python and Scala tooling, I still try to spend as much time writing code in C# and JavaScript regularly. I've developed browser extensions to make life easier for folks handling Microsoft content maintenance and streamlining GitHub discussions when they fill up with noise. I've written C# for iOS and Android app using Xamarin.Forms, Xamarin.iOS, and Xamarin. I've written C#, HTML, and JavaScript for large-scale ASP.NET MVC sites and REST APIs, especially in the e-commerce sector.
+Previously, I've managed the programs for handling content update and improvement systems as well as developing several of the processes that launched the [Microsoft Learn Training](https://aka.ms/learn) platform, a free learning platform with a sandbox system allowing users to practice on the products they are learning without having to worry about Azure costs or resource clean-up.
+
+While I am often buried in internal Python and Scala tooling, I still try to spend time writing code in C# and JavaScript regularly. I've developed browser extensions to make life easier for folks handling Microsoft content maintenance and streamlining GitHub discussions when they fill up with noise. I've written C# for iOS and Android app using Xamarin.Forms, Xamarin.iOS, and Xamarin. I've written C#, HTML, and JavaScript for large-scale ASP.NET MVC sites and REST APIs, especially in the e-commerce sector.
 
 You can find most of my development efforts represented on [GitHub](https://github.com/patridge), whether it's my own code or contributions and collaborations with others.
 
-## Embedded development
+## Microcontroller development
 
 Since its launch, I've been spending a lot of time playing with [Wilderness Lab's Meadow microcontroller and IoT solutions](https://www.wildernesslabs.co/). I contribute regularly to their documentation and build sensor-driven projects of all sorts. Many of these projects end up as samples to teach others, and some end up out in the real world, especially as silly electronic badges for conferences like DEF CON and Hackaday Superday.
 
@@ -61,9 +63,9 @@ Until the Xamarin Certification was retired, I made sure to keep that certificat
 
 [Xamarin Certified Mobile Developer](./images/about-me/Xamarin-Ceritified-Mobile-Developer-Badge-small-res.png)
 
-## Various Profiles
+## PatridgeDev elsewhere
 
-[patridge on Stack Overflow](https://stackoverflow.com/users/48700/patridge) or the full [Stack Exchange network](https://stackexchange.com/users/20388/patridge)
-[patridge on GitHub](https://github.com/patridge)
-[Adam Patridge (@patridge@hachyderm.io) on Mastodon](https://hachyderm.io/@patridge)
-[PatridgeDev [inactive] on Twitter](https://twitter.com/#!/patridgedev)
+* [patridge on Stack Overflow](https://stackoverflow.com/users/48700/patridge) or the full [Stack Exchange network](https://stackexchange.com/users/20388/patridge)
+* [patridge on GitHub](https://github.com/patridge)
+* [Adam Patridge (@patridge@hachyderm.io) on Mastodon](https://hachyderm.io/@patridge)
+* [PatridgeDev [inactive] on Twitter](https://twitter.com/#!/patridgedev)
