@@ -16,7 +16,7 @@ Previously, we created our first custom `dotnet new` template and added our firs
 
 ## Sample code
 
-This is the third in a series of posts about [creating custom templates for the `dotnet new` system](https://www.patridgedev.com/tag/template/). I’ll be working from the results of the prior blog post, but the approach can be used to add this functionality to any `dotnet new` template. If you want a starter template project to get you going, you can clone the [Git repo from that blog post](https://github.com/patridge/demo-custom-dotnet-template) and start from the prior **2-input-parameters** template.
+This is the third in a series of posts about [creating custom templates for the `dotnet new` system](https://www.patridgedev.com/tag/template/). I'll be working from the results of the prior blog post, but the approach can be used to add this functionality to any `dotnet new` template. If you want a starter template project to get you going, you can clone the [Git repo from that blog post](https://github.com/patridge/demo-custom-dotnet-template) and start from the prior **2-input-parameters** template.
 
 ## Why a coalesce/fallback symbol?
 
@@ -66,4 +66,4 @@ In this example from the repo license template example mentioned previously, we 
 
 If you got lost along the way or need something to compare to, look in the [**3-coalesce-parameters** folder](https://github.com/patridge/demo-custom-dotnet-template/tree/master/3-coalesce-parameters) of the [sample Git repo with the resulting templates](https://github.com/patridge/demo-custom-dotnet-template) from following along with this blog post series.
 
-You can now start introducing coalesce, or fallback, variables into your `dotnet new` templates. As always, there's so much more that can allow you to do even more advanced things with your templates, some of which I hope to cover in more posts. If there’s something cool that I need to cover, though, [reach out to me on Twitter: @patridgedev](https://twitter.com/patridgedev).
+You can now start introducing coalesce, or fallback, variables into your `dotnet new` templates. As always, there's so much more that can allow you to do even more advanced things with your templates, some of which I hope to cover in more posts. If there's something cool that I need to cover, though, [reach out to me on Twitter: @patridgedev](https://twitter.com/patridgedev).

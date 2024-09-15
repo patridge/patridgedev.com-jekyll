@@ -19,17 +19,17 @@ Smudges was also available on the Google Play Store for Android phones and table
 
 ## Gameplay
 
-Everywhere you tap, a quick [sound will play](https://www.patridgedev.com/smudges/#options)* and a new shape will pop up in a random color. It’s as simple as that. New shapes will orient to the way you are currently holding the device. Once a shape has been placed, it can be dragged around the screen. As enough new items are added, the oldest ones will start to disappear.
+Everywhere you tap, a quick [sound will play](https://www.patridgedev.com/smudges/#options)* and a new shape will pop up in a random color. It's as simple as that. New shapes will orient to the way you are currently holding the device. Once a shape has been placed, it can be dragged around the screen. As enough new items are added, the oldest ones will start to disappear.
 
 ![Smudges, the animated GIF (picture that cursor being your finger, though)](../images/smudges/SmudgesDemo.gif)
 
-When you really want to go crazy, start tapping with multiple fingers. The iPhone’s touch screen can recognize up to five fingers simultaneously, either dragging or tapping, and Smudges will recognize them all. The iPad allows up to ten fingers, and Smudges will happily handle them all as well.
+When you really want to go crazy, start tapping with multiple fingers. The iPhone's touch screen can recognize up to five fingers simultaneously, either dragging or tapping, and Smudges will recognize them all. The iPad allows up to ten fingers, and Smudges will happily handle them all as well.
 
 ## Sound Option
 
-Smudges allows you to shut off the in-game sounds without muting your device completely so you won’t miss hearing those important alerts; you can also mute your device and Smudges will happily obey that, too. If your little (or big) ones have taken the “go nuts” concept to heart and you don’t want to hear one more noise, just go to your device’s Settings app. (Settings are not offered in the game because it is far too easy to find them accidentally when tapping gets going.)
+Smudges allows you to shut off the in-game sounds without muting your device completely so you won't miss hearing those important alerts; you can also mute your device and Smudges will happily obey that, too. If your little (or big) ones have taken the "go nuts" concept to heart and you don't want to hear one more noise, just go to your device's Settings app. (Settings are not offered in the game because it is far too easy to find them accidentally when tapping gets going.)
 
-First, head to the Settings app for your device’s iOS version. Once there, look for the Smudges setting entry among the other app settings. You’ll see the same Smudges icon when you get there. Inside the Smudges settings you will find the switch for turning in-game sounds on or off.
+First, head to the Settings app for your device's iOS version. Once there, look for the Smudges setting entry among the other app settings. You'll see the same Smudges icon when you get there. Inside the Smudges settings you will find the switch for turning in-game sounds on or off.
 
 For iOS 5 and iOS 6, it will look something like this.
 
@@ -45,7 +45,7 @@ If you ever see a little grey muted speaker icon in the corner of Smudges, that 
 
 ## Gesture Recommendations
 
-If you are having trouble with anyone getting out of the game accidentally, this is possibly a result of the built-in system gestures or buttons. The buttons are inevitable, and those fingers will definitely find them. Unfortunately, shutting those off isn’t really an option. As for the gestures, you can disable them, if you don’t mind losing these gestures for your own use until you turn them back on.
+If you are having trouble with anyone getting out of the game accidentally, this is possibly a result of the built-in system gestures or buttons. The buttons are inevitable, and those fingers will definitely find them. Unfortunately, shutting those off isn't really an option. As for the gestures, you can disable them, if you don't mind losing these gestures for your own use until you turn them back on.
 
 ## iPad Gestures
 

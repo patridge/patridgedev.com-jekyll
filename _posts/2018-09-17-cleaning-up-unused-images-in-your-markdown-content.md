@@ -20,7 +20,7 @@ PowerShell is available on Windows and Linux/macOS, so it's great for wherever I
 
 There are a lot of aliases in PowerShell, they make some verbose commands either shorter and easier to remember, or they duplicate functionality found in the host system. For example, the `dir` command is available in PowerShell, but it is actually an alias for the `Get-ChildItem` command. (Please note that PowerShell commands are actually called "cmdlets", just not here…sorry, not sorry.)
 
-So, to get all the image file names I want to search for, I'll need a variant of `Get-ChildItem`. In my case, these images were in a “media” folder.
+So, to get all the image file names I want to search for, I'll need a variant of `Get-ChildItem`. In my case, these images were in a "media" folder.
 
 <!-- language: powershell -->
 
@@ -32,7 +32,7 @@ This will list out my files, but let's map the resulting objects into just the f
 
     Get-ChildItem .\media\ | ForEach { $_.Name }
 
-Now, we “pipe” (`|`) the resulting `Get-ChildItem` file objects individually into the `ForEach-Object` command (or just `ForEach` as we used), and for each item, noted with `$_`, we grab the `Name` property to make sure we have just the filename and not the full file path.
+Now, we "pipe" (`|`) the resulting `Get-ChildItem` file objects individually into the `ForEach-Object` command (or just `ForEach` as we used), and for each item, noted with `$_`, we grab the `Name` property to make sure we have just the filename and not the full file path.
 
 ## Searching a file for a string
 

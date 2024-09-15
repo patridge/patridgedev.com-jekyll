@@ -113,7 +113,7 @@ In the demo, you'll see a `UILabel` used with a custom icon font (the jet icon s
 
 ### Demo Source Code
 
-For more details on the font-sizing code or any of the rest of this post’s code, just pop over to the [Abusing UIKit for Gaming GitHub repo](https://github.com/patridge/UIKitAbuse). The custom font code project has been added to this project, and I’ll be adding new projects to that solution as I add posts to this series.
+For more details on the font-sizing code or any of the rest of this post's code, just pop over to the [Abusing UIKit for Gaming GitHub repo](https://github.com/patridge/UIKitAbuse). The custom font code project has been added to this project, and I'll be adding new projects to that solution as I add posts to this series.
 
 ## Picking a font, making your own icon font, resources
 
@@ -123,4 +123,4 @@ If you already have your own vector assets, there is also the choice of making y
 
 ## One last shameless plug…
 
-Find [Smudges on the App Store](https://itunes.apple.com/us/app/smudges/id739618884?mt=8&uo=4&ct=blog), available for iPhone, iPad, or iPod Touch. It’s especially fun on iPad where the hardware allows for ten simultaneous touch points.
+Find [Smudges on the App Store](https://itunes.apple.com/us/app/smudges/id739618884?mt=8&uo=4&ct=blog), available for iPhone, iPad, or iPod Touch. It's especially fun on iPad where the hardware allows for ten simultaneous touch points.

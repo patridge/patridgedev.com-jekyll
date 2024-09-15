@@ -136,7 +136,7 @@ Technically, we have taken a fairly complex template we know nothing about inter
 
 ## Other installation options
 
-The `dotnet new --install` command can accept a path to a folder, as we are providing here. It can also accept a path to a local NuGet package (.nupkg) or even a NuGet package ID from nuget.org. For example, I’m working on some templates to help with creating new template and adding files to Git/GitHub repos. This command would install those templates from NuGet directly.
+The `dotnet new --install` command can accept a path to a folder, as we are providing here. It can also accept a path to a local NuGet package (.nupkg) or even a NuGet package ID from nuget.org. For example, I'm working on some templates to help with creating new template and adding files to Git/GitHub repos. This command would install those templates from NuGet directly.
 
 <!-- language: bash -->
 
@@ -164,4 +164,4 @@ If you got lost along the way or need something to compare to, look in the [**1-
 
 ## Next steps
 
-That’s the basics to getting started with your own `dotnet new` templates, but there are so many parts of the templating system that could have their own blog posts. In later posts, I’m hoping to explore some of the more complex features of the template config. If there’s something cool that I need to cover, [reach out to me on Twitter: @patridgedev](https://twitter.com/patridgedev).
+That's the basics to getting started with your own `dotnet new` templates, but there are so many parts of the templating system that could have their own blog posts. In later posts, I'm hoping to explore some of the more complex features of the template config. If there's something cool that I need to cover, [reach out to me on Twitter: @patridgedev](https://twitter.com/patridgedev).

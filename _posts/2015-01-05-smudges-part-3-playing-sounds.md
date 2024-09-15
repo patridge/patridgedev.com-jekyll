@@ -73,4 +73,4 @@ Until then, I've gotten by pretty well with simple audio playback using the abov
 
 ## One last shameless plug…
 
-Find [Smudges on the App Store](https://itunes.apple.com/us/app/smudges/id739618884?mt=8&uo=4&ct=blog), available for iPhone, iPad, or iPod Touch. It’s especially fun on iPad where the hardware allows for ten simultaneous touch points.
+Find [Smudges on the App Store](https://itunes.apple.com/us/app/smudges/id739618884?mt=8&uo=4&ct=blog), available for iPhone, iPad, or iPod Touch. It's especially fun on iPad where the hardware allows for ten simultaneous touch points.

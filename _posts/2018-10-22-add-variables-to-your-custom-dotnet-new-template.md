@@ -8,7 +8,7 @@ tags: dotnet template
 excerpt_separator: <!--more-->
 ---
 
-Previously, I covered [creating your first custom `dotnet new` template](https://www.patridgedev.com/2018/10/09/making-a-custom-dotnet-new-template/). Now, let's work on customizing the content our template generates based on inputs provided via the command line. I’ll be working from the [same custom template from that post](https://www.patridgedev.com/2018/10/09/making-a-custom-dotnet-new-template/), which is just a `dotnet new console` output with its own **.template.config** setup. If you want a starter template project to get you going, use the template from the [**1-custom-template** folder](https://github.com/patridge/demo-custom-dotnet-template/tree/master/1-custom-template) from the [Git repo from that blog post](https://github.com/patridge/demo-custom-dotnet-template).
+Previously, I covered [creating your first custom `dotnet new` template](https://www.patridgedev.com/2018/10/09/making-a-custom-dotnet-new-template/). Now, let's work on customizing the content our template generates based on inputs provided via the command line. I'll be working from the [same custom template from that post](https://www.patridgedev.com/2018/10/09/making-a-custom-dotnet-new-template/), which is just a `dotnet new console` output with its own **.template.config** setup. If you want a starter template project to get you going, use the template from the [**1-custom-template** folder](https://github.com/patridge/demo-custom-dotnet-template/tree/master/1-custom-template) from the [Git repo from that blog post](https://github.com/patridge/demo-custom-dotnet-template).
 
 > This is the second in a collection of posts about [creating custom templates for the `dotnet new` system](https://www.patridgedev.com/tag/template/).
 
@@ -51,15 +51,15 @@ The resulting Program.cs file will have a call using our custom parameter.
 
 If we don't pass in that `helloMessage` parameter, the substitution is made with the value set in  a symbol's `defaultValue` field.
 
-When the content is generated, it will process the template files and replace all instances of “Hello from a new template!“ with the provided parameter value. We only have one instance here, but you could have several if your template requires it.
+When the content is generated, it will process the template files and replace all instances of "Hello from a new template!" with the provided parameter value. We only have one instance here, but you could have several if your template requires it.
 
 ## Making the output more predictable
 
 Since the template system does a find-and-replace on our symbols defining a `replaces` value, I want to make sure it doesn't accidentally find any other instances I didn't intend for it to replace. To do that, I will typically use a placeholder string that is always replaced, like a template token.
 
-Most template examples I have looked over seem to put default data in the file to be processed and replace that value with the `replaces` value. I tend to use a placeholder string and a `defaultValue` within the symbol instead. They both result in the same generated content, so let your own preferences guide you here. I feel like I’m less likely to have identical text elsewhere that will get accidentally replaced as a "false positive" when I use replacement tokens than with actual content.
+Most template examples I have looked over seem to put default data in the file to be processed and replace that value with the `replaces` value. I tend to use a placeholder string and a `defaultValue` within the symbol instead. They both result in the same generated content, so let your own preferences guide you here. I feel like I'm less likely to have identical text elsewhere that will get accidentally replaced as a "false positive" when I use replacement tokens than with actual content.
 
-In the previous example, I would replace the `WriteLine` parameter in C# with something like `Console.WriteLine(”{helloMessage}”)` and configure the symbol like this.
+In the previous example, I would replace the `WriteLine` parameter in C# with something like `Console.WriteLine("{helloMessage}")` and configure the symbol like this.
 
 <!-- language: json -->
 
@@ -79,7 +79,7 @@ You will end up creating a symbol for each input you want to accept from the com
 
 ## Changing input parameter casing
 
-There are lots of things we can do to incoming parameter values, but we’ll start with a simple one: forcing something to all uppercase or lowercase. If you're taking in an input from a user of your template, you can’t always rely on them providing the expected input. For example, if you expect an ID field in your template to have letters in uppercase only, you will want to set it up to enforce that when the templated content is generated.
+There are lots of things we can do to incoming parameter values, but we'll start with a simple one: forcing something to all uppercase or lowercase. If you're taking in an input from a user of your template, you can't always rely on them providing the expected input. For example, if you expect an ID field in your template to have letters in uppercase only, you will want to set it up to enforce that when the templated content is generated.
 
 We add this string modification as a second symbol that will derive a modified value from the original, keeping the original also available if you need it. To do so, return to your **.template.config** > **template.config** file.
 
@@ -160,4 +160,4 @@ This command…
 
 You can now start introducing variables into your `dotnet new` templates. If you want to compare your work to a template created by following along, check out the [**2-input-parameters** folder](https://github.com/patridge/demo-custom-dotnet-template/tree/master/2-input-parameters) of the [GitHub repo created for this blog post series](https://github.com/patridge/demo-custom-dotnet-template).
 
-There's so much more that can allow you to do even more advanced things with your templates, some of which I hope to cover in more posts. If there’s something cool that I need to cover, though, [reach out to me on Twitter: @patridgedev](https://twitter.com/patridgedev).
+There's so much more that can allow you to do even more advanced things with your templates, some of which I hope to cover in more posts. If there's something cool that I need to cover, though, [reach out to me on Twitter: @patridgedev](https://twitter.com/patridgedev).
