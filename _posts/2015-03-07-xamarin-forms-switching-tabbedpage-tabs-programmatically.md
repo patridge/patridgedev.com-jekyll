@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Xamarin.Forms: Switching TabbedPage Tabs Programmatically"
+author: "Adam Patridge"
 date: Sat, 07 Mar 2015 15:43:17 +0000
 tags: Xamarin.Forms Xamarin.Android Xamarin.iOS
 # category: dev

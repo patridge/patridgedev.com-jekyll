@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Play Japanese Famicom games with your US Nintendo Switch Online account"
+author: "Adam Patridge"
 date: Wed, 06 Feb 2019 21:56:54 +0000
 tags: Nintendo-Switch
 # category: games

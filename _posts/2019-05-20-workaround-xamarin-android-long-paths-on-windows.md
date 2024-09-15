@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Workaround: Xamarin.Android long paths on Windows"
+author: "Adam Patridge"
 date: Mon, 20 May 2019 14:16:37 +0000
 tags: Xamarin.Android Xamarin.Forms
 # category: dev

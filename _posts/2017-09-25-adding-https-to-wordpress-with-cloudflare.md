@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Adding HTTPS to WordPress with Cloudflare"
+author: "Adam Patridge"
 date: Mon, 25 Sep 2017 14:30:46 +0000
 tags: WordPress meta
 # category: dev

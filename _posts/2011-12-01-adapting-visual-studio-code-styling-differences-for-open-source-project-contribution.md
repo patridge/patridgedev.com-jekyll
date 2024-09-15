@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Adapting Visual Studio code styling differences for open source project contribution"
+author: "Adam Patridge"
 date: Thu, 01 Dec 2011 14:38:59 +0000
 tags: code-formatting open-source-contribution Visual-Studio
 # category: dev

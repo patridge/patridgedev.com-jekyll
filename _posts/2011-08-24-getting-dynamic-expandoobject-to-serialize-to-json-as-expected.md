@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Getting dynamic ExpandoObject to serialize to JSON as expected"
+author: "Adam Patridge"
 date: Thu, 25 Aug 2011 02:44:18 +0000
 tags: C# JavaScriptSerializer JSON Json.NET ServiceStack.Text
 # category: dev

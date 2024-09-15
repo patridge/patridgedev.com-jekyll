@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Copy command line output to the clipboard on macOS, Windows, and Linux"
+author: "Adam Patridge"
 date: Fri, 27 Sep 2019 13:30:44 +0000
 tags: command-line
 # category: dev

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Abusing UIKit for Gaming in Xamarin.iOS, Part 3: Playing Sounds"
+author: "Adam Patridge"
 date: Mon, 05 Jan 2015 14:30:28 +0000
 tags: Xamarin audio AVAudioPlayer Smudges Sounds UIKit Xamarin.iOS
 # category: dev

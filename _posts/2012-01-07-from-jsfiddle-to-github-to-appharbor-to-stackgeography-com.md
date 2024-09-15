@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From jsFiddle to GitHub to AppHarbor to stackgeography.com"
+author: "Adam Patridge"
 date: Sun, 08 Jan 2012 05:33:53 +0000
 tags: API JavaScript Stack-Exchange
 # category: dev

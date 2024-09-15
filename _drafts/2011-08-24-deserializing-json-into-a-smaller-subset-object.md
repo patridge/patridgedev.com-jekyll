@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Deserializing JSON into a smaller subset object"
+author: "Adam Patridge"
 date: Wed, 24 Aug 2011 22:32:40 +0000
 tags: deserialization JSON ExpandoObject
 # category: dev

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Giving CocosSharp v1.7.0.0-pre1 a Spin"
+author: "Adam Patridge"
 date: Tue, 17 Nov 2015 17:18:36 +0000
 tags: Xamarin.Forms CocosSharp
 # category: dev

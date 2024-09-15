@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fallback variables in `dotnet new` templates"
+author: "Adam Patridge"
 date: Mon, 29 Oct 2018 14:00:25 +0000
 tags: dotnet template
 # category: dev

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MonoTouch Programming in Visual Studio"
+author: "Adam Patridge"
 date: Mon, 10 Dec 2012 20:19:57 +0000
 tags: Xamarin Visual-Studio MonoTouch
 # category: dev

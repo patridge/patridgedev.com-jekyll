@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mono for Android: &quot;aapt.exe&quot; exited with code 1"
+author: "Adam Patridge"
 date: Thu, 12 Jul 2012 00:26:32 +0000
 tags: Xamarin Xamarin.Android Mono-for-Android C#
 # category: dev
