@@ -18,6 +18,13 @@ layout: default
         </a>
       </h3>
       {{ post.excerpt }}
+
+      {%- assign bannerMod = forloop.index | modulo: 2 -%}
+      {%- if bannerMod == 0 -%}
+      <div>
+      {%- include banner-ad.html -%}
+      </div>
+      {%- endif -%}
     </li>
     {% endfor %}
   </ul>
