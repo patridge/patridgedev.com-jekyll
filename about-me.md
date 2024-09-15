@@ -66,6 +66,11 @@ Until the Xamarin Certification was retired, I made sure to keep that certificat
 ## PatridgeDev elsewhere
 
 * [patridge on Stack Overflow](https://stackoverflow.com/users/48700/patridge) or the full [Stack Exchange network](https://stackexchange.com/users/20388/patridge)
+
+    <a href="https://stackoverflow.com/users/48700/patridge">
+    <img src="https://stackoverflow.com/users/flair/48700.png" width="208" height="58" alt="profile for patridge at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for patridge at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+    </a>
+
 * [patridge on GitHub](https://github.com/patridge)
 * [Adam Patridge (@patridge@hachyderm.io) on Mastodon](https://hachyderm.io/@patridge)
 * [PatridgeDev [inactive] on Twitter](https://twitter.com/#!/patridgedev)
