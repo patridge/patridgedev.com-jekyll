@@ -1,0 +1,23 @@
+{
+  "subject": "acct:patridge@hachyderm.io",
+  "aliases": [
+    "https://hachyderm.io/@patridge",
+    "https://hachyderm.io/users/patridge"
+  ],
+  "links": [
+     {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://hachyderm.io/@patridge"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://hachyderm.io/users/patridge"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://mastodon.social/authorize_interaction?uri={uri}"
+    }
+  ]
+}
