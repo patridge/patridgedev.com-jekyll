@@ -4,7 +4,7 @@ title: "Explorations in Cross-Platform Assets: 9-Slice Stretchable SVGs in Xamar
 author: "Adam Patridge"
 date: Tue, 23 Feb 2016 14:10:21 +0000
 tags: Xamarin.Forms
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 

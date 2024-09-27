@@ -4,7 +4,7 @@ title: "Handling case-insensitive enum action method parameters in ASP.NET MVC"
 author: "Adam Patridge"
 date: Fri, 19 Aug 2011 03:00:29 +0000
 tags: C# ASP.NET-MVC
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 

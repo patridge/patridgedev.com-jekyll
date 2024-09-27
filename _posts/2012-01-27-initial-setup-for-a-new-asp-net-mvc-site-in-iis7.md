@@ -4,7 +4,7 @@ title: "Initial setup for a new ASP.NET MVC site in IIS7"
 author: "Adam Patridge"
 date: Fri, 27 Jan 2012 17:26:56 +0000
 tags: ASP.NET-MVC IIS JSON
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 

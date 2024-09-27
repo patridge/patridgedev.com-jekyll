@@ -4,7 +4,7 @@ title: "Creating an animated spinner in a Xamarin.iOS (MonoTouch) UIImageView"
 author: "Adam Patridge"
 date: Wed, 18 Jul 2012 14:39:04 +0000
 tags: Xamarin UIImageView Xamarin.iOS MonoTouch
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 

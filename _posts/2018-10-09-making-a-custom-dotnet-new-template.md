@@ -4,7 +4,7 @@ title: "Making a custom `dotnet new` template"
 author: "Adam Patridge"
 date: Tue, 09 Oct 2018 13:00:23 +0000
 tags: dotnet template
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 

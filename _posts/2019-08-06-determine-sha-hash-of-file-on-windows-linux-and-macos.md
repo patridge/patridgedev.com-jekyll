@@ -4,7 +4,7 @@ title: "Determine SHA hash of file on Windows, Linux, and macOS"
 author: "Adam Patridge"
 date: Tue, 06 Aug 2019 12:00:06 +0000
 tags: command-line
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 

@@ -4,7 +4,7 @@ title: "Making MonoDevelop for Mac (or Xamarin Studio) more like Visual Studio"
 author: "Adam Patridge"
 date: Tue, 18 Jun 2013 15:19:25 +0000
 tags: Xamarin Visual-Studio MonoDevelop
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 

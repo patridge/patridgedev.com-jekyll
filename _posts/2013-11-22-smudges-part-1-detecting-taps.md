@@ -4,7 +4,7 @@ title: "Abusing UIKit for Gaming in Xamarin.iOS, Part 1: Detecting Taps and Plac
 author: "Adam Patridge"
 date: Sat, 23 Nov 2013 01:27:08 +0000
 tags: Xamarin Smudges UIKit UITapGestureRecognizer Xamarin.iOS
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 

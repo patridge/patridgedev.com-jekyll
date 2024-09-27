@@ -4,7 +4,7 @@ title: "Performance Stub: getting all subtype items from a list"
 author: "Adam Patridge"
 date: Wed, 11 Apr 2012 13:51:28 +0000
 tags: C# performance performance-stub
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 
