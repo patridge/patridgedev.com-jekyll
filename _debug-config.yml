@@ -1,0 +1,6 @@
+# To run things locally, you can override the hosted `_config.yml with values that need to be different for local development.
+# This serve command will use both the default `_config.yml` and any `_debug-config.yml` overrides here.
+# `bundle exec jekyll serve --config _config.yml,_debug-config.yml`
+
+# Local base isn't prefixed. Clear out for URLs.
+baseurl: "" # the subpath of your site, e.g. /blog

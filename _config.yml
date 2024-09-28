@@ -22,7 +22,7 @@ author: "Adam Patridge"
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Adventures in software development and other nerdiness.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/patridgedev.com-jekyll" # the subpath of your site, e.g. /blog
 # TODO: ??? url: "http://www.patridgedev.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: "G-3WN7RP75N7"
 linkedin_username: "adampatridge"
