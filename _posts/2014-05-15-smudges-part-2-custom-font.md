@@ -4,7 +4,7 @@ title: "Abusing UIKit for Gaming in Xamarin.iOS, Part 2: Using Custom Fonts"
 author: "Adam Patridge"
 date: Thu, 15 May 2014 15:03:51 +0000
 tags: Xamarin font icon Smudges UIKit Xamarin.iOS
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 

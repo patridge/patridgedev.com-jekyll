@@ -4,7 +4,7 @@ title: "Capturing Your iOS App in Animated GIF Glory using LICEcap"
 author: "Adam Patridge"
 date: Fri, 27 Sep 2013 13:30:55 +0000
 tags: Xamarin iOS Xamarin.iOS
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 

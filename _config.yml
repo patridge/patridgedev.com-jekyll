@@ -50,6 +50,12 @@ plugins:
 header_link_ignore_urls:
   - "/smudges/smudges-privacy-policy/"
   - "/index.html"
+  - "/category/dev/index.html"
+  - "/category/games/index.html" # Not actually included in header links for some reason, but dev is for sure.
+
+include: [
+  "/.well-known"
+]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

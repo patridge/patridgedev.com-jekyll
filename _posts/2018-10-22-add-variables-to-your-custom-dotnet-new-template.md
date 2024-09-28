@@ -4,7 +4,7 @@ title: "Add variables to your custom `dotnet new` template"
 author: "Adam Patridge"
 date: Mon, 22 Oct 2018 20:00:49 +0000
 tags: dotnet template
-# category: dev
+category: dev
 excerpt_separator: <!--more-->
 ---
 
