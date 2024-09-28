@@ -47,11 +47,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
 
-header_link_ignore_urls:
-  - "/smudges/smudges-privacy-policy/"
-  - "/index.html"
-  - "/category/dev/index.html"
-  - "/category/games/index.html" # Not actually included in header links for some reason, but dev is for sure.
+header_pages:
+  - about-me.md
+  - smudges/index.md
 
 include: [
   "/.well-known"
