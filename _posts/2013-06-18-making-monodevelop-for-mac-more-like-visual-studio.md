@@ -61,9 +61,25 @@ For just specific preferences, you may be able to move around just a single file
 * Word break mode tip via [Michael J Hutchinson](http://mjhutchinson.com/journal/2011/02/monodevelop_tips_word_breaking).
 * Settings export tip via [Eugen Rieck's Stack Overflow answer](http://stackoverflow.com/q/9313350/48700).
 
-###Versions
+### Versions
 Since these things are likely to change, let me add the versions of these applications. If things have become too dated here, feel free to drop me a line (comments, email, whatever).
 
 * Mac OS: 10.7.5
 * MonoDevelop: 3.0.4.7
 * MonoTouch: 3.0.4
+
+---
+
+## Comments
+
+* **Victor Chelaru**, _2015-10-14 20:30:58 +0000_:
+
+    > Turns out that the Libraries folder is hidden under the user's root in OSX 10. To solve this:
+    >
+    > http://osxdaily.com/2011/07/04/show-library-directory-in-mac-os-x-lion/
+    >
+    > Specifically:
+    >
+    > Open a terminal and enter/run: `chflags nohidden ~/Library/`
+    >
+    > Once you do this, you should be able to spot the XamarinStudio folder as mentioned in the above post.

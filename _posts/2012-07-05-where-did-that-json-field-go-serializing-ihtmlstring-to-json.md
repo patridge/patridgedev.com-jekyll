@@ -53,3 +53,12 @@ While the API JSON-generating code hadn't changed, that field was pulled from co
 ## Code
 
 For the full source used in this post, including an example MVC project where a controller has action methods to test all the variations here, head over to [this post's GitHub repository](https://github.com/patridge/JsonNetIHtmlStringTesting).
+
+---
+
+## Comments
+
+* **Bryan**, _2013-01-23 19:35:23 +0000_
+
+    > This was very helpful, thanks! I was trying to pass a single-line html string to a ckeditor instance. I ended up just removing the line breaks and such and that seemed to do the trick.
+

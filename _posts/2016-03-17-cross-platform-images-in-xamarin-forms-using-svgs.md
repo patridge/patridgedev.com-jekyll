@@ -111,3 +111,24 @@ Even SVG elements that do render (in some controls), don't always render as expe
 ## Parting Thoughts
 
 There are definitely limitations to using SVGs, but they can still vastly simplify your image workflow. Adding SVG support to your pre-existing app can be done without breaking any of your current image use, so it is ideal for adding to existing projects without rewriting your UI code. If you happen to give one of the TwinTechsForms NuGet packages, I'd love to hear your thoughts. Should you run into any issues, don't hesitate to [send a GitHub issue my way](https://github.com/twintechs/TwinTechsFormsLib/issues). Feel free to send any feedback my way [on Twitter](https://twitter.com/PatridgeDev) or leave a comment here. If you have any thoughts for improvements, pull requests are always welcome (or file an issue).
+
+---
+
+## Comments
+
+* **Korayem**, _2016-09-14 08:23:24 +0000_:
+
+    > Hey! is there a way to use SVG as ContentPage icons such that they render properly when added as children to a TabbedPage?
+
+    * **Adam Patridge**, _2016-09-23 21:10:28 +0000_:
+
+        > I haven't given the TabbedPage a shot yet, but I suspect SVGs won't be an option there. My suspicion is that since a Page's Icon is a FileImageSource under the hood, that trying to inject an SVG into that process wouldn't be trivial. There may be potential for a custom renderer or platform effect that puts the SVG in the proper platform location for use, though.
+
+* **Madhavi**, _2017-06-15 11:43:31 +0000_:
+
+    > Thanks for the library. I have an issue with SVG image rendering on iOS. on page load, the images are hidden. Based on certain condition, visibility is set to true. Issue is that the image occupies space, Tap gesture is recognized on the space occupied by image,  but it is not visible.
+    > Can you guide me what the issue could be?
+
+* **Andrea**, _2017-08-03 17:14:01 +0000_:
+
+    > XamSvg now supports rendering tabbed page icons with svg ! See https://github.com/softlion/XamSvg-Samples/tree/prerelease for the demo project.

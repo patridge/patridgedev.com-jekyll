@@ -108,3 +108,29 @@ I haven't played much with what problems may arise with the various representati
 ### Source Code
 
 To get all the code in an ASP.NET MVC project (download, load solution, hit F5 [I hope]), check out [the bitbucket.org repository for this post](https://bitbucket.org/patridge/expandoobject-json-serialization-tests).
+
+---
+
+## Comments
+
+* **Charles Egan**, _2012-06-14 17:48:14 +0000_
+
+    > This was exactly what I was looking for.  Thanks so much!
+
+* **Jon Canning**, _2012-07-10 08:32:51 +0000_
+
+    > Hi Adam,  I threw this together since I wanted to quickly test some APIs with dynamics and would appreciate your feedback:
+    >
+    > http://nuget.org/packages/cerealbox
+    > https://github.com/JonCanning/CerealBox
+
+* **Will**, _2013-11-07 05:35:46 +0000_
+
+    > Try this:
+    >
+    > ```
+    > public override IDictionary Serialize(object obj, JavaScriptSerializer serializer)
+    > {
+    >   return (obj as IDictionary).ToDictionary(kvp =&gt; kvp.Key, kvp =&gt; kvp.Value);
+    > }
+    > ```

@@ -96,3 +96,11 @@ If a symbolic link ever outlives its usefulness, just delete it like it's any ot
 ## Bonus tip
 
 This can also be a good way to move location-required files from a drive that is running low on space to an external location. Some notable examples include migrating your iTunes music to a different drive, or moving your installed Steam games to another drive. You create a symbolic link from where iTunes or Steam is looking for those file to where you are planning to store them. The app doesn't know any different, but your C drive can be much less bloated. If you are running Windows from a must-faster-but-smaller SSD, this can be a life saver.
+
+---
+
+## Comments
+
+* **laim**, _2019-09-24 02:29:52 +0000_:
+
+    > I like and suggest you to try LongPathTool program. It is very helpful for copying/deleting or renaming long path files.

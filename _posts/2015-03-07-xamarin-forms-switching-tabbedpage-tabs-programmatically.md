@@ -155,3 +155,55 @@ If you have used Xamarin Forms enough, you know that things are rarely one-to-on
 ## Sample Code
 
 To see what would barely be called "finished code", [check out my Xamarin Forms TabbedPage GitHub repo](https://github.com/patridge/XamarinForms-Tabs-Demo) of what I was working on while writing this article.
+
+---
+
+## Comments
+
+* **Prudvee**, _2015-04-16 13:47:51 +0000_:
+
+    > Great tutorial. Helped a lot!
+
+* **Tim**, _2017-08-15 19:36:08 +0000_:
+
+    > var parentPage = this.Parent as TabbedPage;
+    > parentPage.CurrentPage = parentPage.Children[0]; &lt;&lt; works IF the tab was added as a ContentPage, like this:</p>
+    >
+    > public MainTabbed()
+    > {
+    > mappage = new Map();
+    > mappage.Icon = "ic_map.png";
+    > mappage.Title = "Map";
+    > Children.Add(mappage);
+    >
+    > ```
+    > searchpage = new Search();
+    > searchpage.Icon = "ic_searche.png";
+    > searchpage.Title = "Search";
+    > Children.Add(searchpage);
+    > ```
+    > ......
+    >
+    > If I use:
+    >
+    > public MainTabbed()
+        {
+        mappage = new NavigationPage(new Map());
+        mappage.Icon = "ic_map.png";
+        mappage.Title = "Map";
+        Children.Add(mappage);
+    >
+    > searchpage = new NavigationPage(new Search());
+        searchpage.Icon = "ic_searche.png";
+        searchpage.Title = "Search";
+        Children.Add(searchpage);
+        ......
+    >
+    > var parentPage = this.Parent as TabbedPage; >> parentPage is null
+    >
+    > Any ideas?
+
+* **Paul**, _2019-01-31 09:24:38 +0000_:
+
+    > Good one.. T'was a great help
+    > Keep it up!!

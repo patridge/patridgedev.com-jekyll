@@ -39,3 +39,21 @@ On a side note, if your development environment uses localhost with a port and y
 
     Url.RouteUrl("Default", new RouteValueDictionary(new { action = "Index", controller = "Department", id = 1 }), "http", ConfigurationManager.AppSettings["hostwithport"]);
     // http://localhost:12345:12345/department/index/1
+
+---
+
+## Comments
+
+* **Richard Bogle**, _2013-03-22 16:33:33 +0000_
+
+    > These peculiar results were causing me a lot of grief trying to get RouteUrl working. Thanks to your post I was able to try a couple more things to get my work done.
+
+* **Gary**, _2014-04-06 20:26:50 +0000_
+
+    > I was using Url.Action (I'm a noob) with similar route values and it ended clashing with one of my create views. Found Url.RouteUrl and stumbled onto this, working perfectly; great resource! Thank you!
+
+* **Radu Bartan**, _2019-06-01 01:19:06 +0000_
+
+    > Adam,
+    >
+    > I've been trying like hell to get some sort of link to work nice with a route name inside an area. Do you have any suggestions?

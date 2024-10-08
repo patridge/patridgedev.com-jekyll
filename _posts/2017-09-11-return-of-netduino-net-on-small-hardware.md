@@ -39,3 +39,25 @@ I have played with a few sensors and LEDs already, and some more code-happy post
 So far, I have a few random toys to play with: a water-resistant temperature sensor, a [BME280 temperature/pressure/altitude sensor](http://amzn.to/2viNF2v), and an ultrasonic range sensor
 
 Even if the Netduino is overkill, I might start working on a small temperature-monitoring system feeding to Azure IoT Hub with an app front-end for our chicken coop. Or maybe a silly well-sensored aquaponics system. As much fun as blinking LEDs can be, what other semi-useful things should I be trying to make? Drop me a [line on Twitter](https://twitter.com/patridgedev) if you have any suggestions.
+
+
+---
+
+## Comments
+
+* **Ivan**, _2017-09-14 13:57:30 +0000_:
+
+    > Try nanoFramework https://github.com/nanoframework
+    > Netduino overpriced hardware for blinking LEDs...
+
+    * **Adam Patridge**, _2017-09-15 22:07:19 +0000_:
+
+        > I'll have to check that out. I've never heard of the project and information seems a bit sparse on http://nanoframework.net/. Is there a good resource for figuring out what nanoFramework is and how to get started with it? I'm not really sure what I'm looking at from that GitHub organization. I'd love to read some tutorials and docs.
+
+* **Arthur Mezins**, _2017-09-15 18:55:25 +0000_;
+
+    > The website states the WiFi is b,g,n, not a, b, g as you stated.
+
+    * **Adam Patridge**, _2017-09-15 22:01:41 +0000_:
+
+        > Thanks for catching that. I've updated the post.

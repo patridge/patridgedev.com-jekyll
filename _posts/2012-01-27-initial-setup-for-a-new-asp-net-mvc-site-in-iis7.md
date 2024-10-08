@@ -165,3 +165,28 @@ If you want to do all this to applicationHost.config alone, you just swap out th
     %windir%\System32\inetsrv\appcmd.exe set config -section:system.webServer/httpCompression /+"dynamicTypes.[mimeType='application/javascript; charset=utf-8',enabled='True']" /commit:apphost
     %windir%\System32\inetsrv\appcmd.exe set config -section:system.webServer/httpCompression /+"dynamicTypes.[mimeType='application/json; charset=utf-8',enabled='True']" /commit:apphost
     %windir%\System32\inetsrv\appcmd recycle apppool /apppool.name:"{your-app-pool-name}"
+
+---
+
+## Comments
+
+* **Brett**, _2012-06-13 18:13:33 +0000_
+
+    > What is the best way to verify that it worked? I am only adding JSON content to compression and removing the HTTP Headers?
+    >
+    > thanks.
+
+    * **Adam Patridge**, _2012-06-18 04:14:37 +0000_
+
+        > I find it easiest to verify things go across the wire as desired with a browser's developer tools. In Chrome, load up the tools and make the request again. In the dev tool's network tab, you will see your requests logged. Click the request you wish to check and look at the response headers sent back by your site. If you see something like "Content-Encoding:gzip" in the response headers, it worked fine.
+
+* **Rich M.**, _2014-09-24 20:55:19 +0000_
+
+    > Thanks, This helped. We were having issues where gzip was successful for xml but not for json. Our F5 is new and we had compression turned on but were not allowing json. We simply added application\json it to the compression config and it worked. Now we'll need to test and decide if it is better for us to have our webservers do the compressing or the load balancer.
+
+* **Robert Crew**, _2015-08-12 05:29:10 +0000_
+
+    > Thanks for the tutorial.  I've found that enableVersionHeader does not work when committed to applicationHost.config.  The AppPool closes with an error as soon as it starts.
+    >
+    > The line I use is:
+    > %windir%\System32\inetsrv\appcmd.exe set config /section:system.web/httpRuntime /enableVersionHeader:false /commit:webroot

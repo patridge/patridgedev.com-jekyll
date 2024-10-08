@@ -43,3 +43,59 @@ As [Sergey Vlasov](http://www.svprogramming.net/) [pointed out](/2012/02/14/clos
 [![Visual Studio Keyboard Options (Edit.UndoClose)](/wp-content/uploads/2012/02/UndoCloseSettings-300x174.png "Getting Ctrl+Shift+T to re-open previously closed tabs/windows.")](/wp-content/uploads/2012/02/UndoCloseSettings.png)
 
 Just like with your favorite web browser, this will cycle through previously closed tabs, resurrecting them from their graves and restoring your cursor location to right where you left off when you closed them. Amazingly enough, this also works when Visual Studio closes your active windows when a project reloads.
+
+---
+
+## Comments
+
+* **Sergey Vlasov**, _2012-02-15 14:23:54 +0000_
+
+    > PowerCommands extension for Visual Studio 2010 lets you bring back the last closed window: http://visualstudiogallery.msdn.microsoft.com/e5f41ad9-4edc-4912-bca3-91147db95b99/
+    >
+    > "To reopen the most recently closed document, point to the Edit menu, then click Undo Close. Alternately, you can use the Ctrl+Shift+Z shortcut."
+
+    * **Adam Patridge**, _2012-02-15 16:21:59 +0000_
+
+        > Sergey, thanks for tossing that out. That's a good extension to know. I haven't given that one a chance, though I do remember hearing about it when someone asked about recursively collapsing projects in the Solution Explorer. There's a lot to love in that extension (e.g., "Remove and Sort Usings on save"). I appreciate that they make it easy to disable during a presentation, too, if I want to avoid confusing people who may not have it installed (at the risk of looking silly when I try to use its [now disabled] features).
+
+* **Kurt**, _2012-08-04 03:55:06 +0000_
+
+    > Thanks for this. There are a few silly things in VS 2010. Not showing line numbers by default is another...
+
+    * **Adam Patridge**, _2012-08-24 17:33:11 +0000_
+
+        > I definitely use line numbers fairly regularly, but that one must not bother me enough to turn it on. If I need a current line number, by default, the cursor's line number is shown on the IDE status bar (bottom right: "Ln ##"; still there in VS2012). Going the other way, any time I need to find a line by number, I just mash the Ctrl+G shortcut for "Go To...".
+
+* **Luke Sampson**, _2012-08-24 00:37:13 +0000_
+
+    > Sweet! I tried setting Ctrl-W as a global command but it didn't work—thanks for the 'Text Editor' tip!
+
+    * **Adam Patridge**, _2012-08-24 17:26:09 +0000_
+
+        > Glad it helped. I tried that way first, too. There may be window types other than "Text Editor" that wouldn't allow the shortcut to work this way (maybe some designers or explorer-style windows), but I haven't found them yet.
+
+* **Hio**, _2013-10-26 13:09:57 +0000_
+
+    > Not working in VS 2013
+
+    * **Adam Patridge**, _2013-11-08 16:53:50 +0000_
+
+        > Valid point. Even [Productivity Power Tools](http://visualstudiogallery.msdn.microsoft.com/d0d33361-18e2-46c0-8ff2-4adea1e34fef), which had this feature and supported 2012, doesn't appear to offer support for 2013. Here's hoping someone on [Stack Overflow can let us know of an undo-close solution for VS2013](http://stackoverflow.com/q/19864290/48700).
+
+        * **Adam Patridge**, _2013-11-18 04:25:01 +0000_
+
+            > They just released a Productivity Power Tools for VS 2013 a couple days ago. I added an update at the beginning of the post with a link.
+
+* **Mike**, _2015-07-02 19:53:31 +0000_
+
+    > Just dropping a quick thanks. That's been bugging me for a long time now.
+
+* **vijay**, _2015-10-02 15:47:26 +0000_
+
+    > thank you very much!
+    > I wish some day all these companies agree to put people before product and use same short cuts for common tasks.
+
+* **Anton Vlasiuk**, _2019-02-26 18:00:33 +0000_
+
+    > Thank you so much! Wonderful tutorial.
+
