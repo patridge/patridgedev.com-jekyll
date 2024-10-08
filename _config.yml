@@ -28,6 +28,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 google_analytics: "G-3WN7RP75N7"
 linkedin_username: "adampatridge"
 
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      permalink: /:year/:month/:day/:title/
+
 mastodon:
   - username: patridge
     instance: hachyderm.io
