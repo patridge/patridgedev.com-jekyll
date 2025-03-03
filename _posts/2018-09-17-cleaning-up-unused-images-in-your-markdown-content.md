@@ -3,7 +3,7 @@ layout: post
 title: "Cleaning up unused images in your Markdown content with PowerShell"
 author: "Adam Patridge"
 date: Mon, 17 Sep 2018 14:00:06 +0000
-tags: command-line PowerShell
+tags: command-line powershell
 category: dev
 excerpt_separator: <!--more-->
 ---

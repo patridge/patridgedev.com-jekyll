@@ -3,7 +3,7 @@ layout: post
 title: "Develop and test loaded PowerShell modules"
 author: "Adam Patridge"
 date: 2023-02-28 20:52:33 -0600
-tags: command-line PowerShell
+tags: command-line powershell
 category: dev
 excerpt_separator: <!--more-->
 ---

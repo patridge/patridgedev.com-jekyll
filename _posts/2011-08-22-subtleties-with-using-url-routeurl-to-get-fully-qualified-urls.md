@@ -3,7 +3,7 @@ layout: post
 title: "Subtleties with using Url.RouteUrl to get fully-qualified URLs"
 author: "Adam Patridge"
 date: Tue, 23 Aug 2011 04:34:46 +0000
-tags: ASP.NET-MVC C#
+tags: c-sharp asp-net-mvc
 category: dev
 excerpt_separator: <!--more-->
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Xamarin.iOS C# Recipe: Animating Views with iOS 7 UIGravityBehavior (UIKit Dynamics)"
 author: "Adam Patridge"
 date: Wed, 25 Sep 2013 05:23:23 +0000
-tags: Xamarin iOS-7 iOS Xamarin.iOS monotouch
+tags: xamarin ios-7 ios xamarin-ios monotouch
 category: dev
 excerpt_separator: <!--more-->
 ---

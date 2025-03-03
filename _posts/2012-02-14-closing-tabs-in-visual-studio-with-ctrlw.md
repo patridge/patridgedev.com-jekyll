@@ -3,7 +3,7 @@ layout: post
 title: "Closing and Re-opening tabs in Visual Studio with Ctrl+W"
 author: "Adam Patridge"
 date: Tue, 14 Feb 2012 16:13:17 +0000
-tags: keyboard-shortcut Visual-Studio
+tags: keyboard-shortcut visual-studio
 category: dev
 excerpt_separator: <!--more-->
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Cross-Platform Images in Xamarin.Forms Using SVGs"
 author: "Adam Patridge"
 date: Thu, 17 Mar 2016 13:15:27 +0000
-tags: Xamarin.Forms
+tags: xamarin-forms
 category: dev
 excerpt_separator: <!--more-->
 ---

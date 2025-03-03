@@ -3,7 +3,7 @@ layout: post
 title: "Return of Netduino, .NET on small hardware"
 author: "Adam Patridge"
 date: Mon, 11 Sep 2017 14:00:56 +0000
-tags: Netduino C#
+tags: netduino c-sharp
 category: dev
 excerpt_separator: <!--more-->
 ---

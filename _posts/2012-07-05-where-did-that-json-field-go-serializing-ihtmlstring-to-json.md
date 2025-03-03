@@ -3,7 +3,7 @@ layout: post
 title: "Where did that JSON field go? Serializing IHtmlString to JSON"
 author: "Adam Patridge"
 date: Thu, 05 Jul 2012 18:26:17 +0000
-tags: ASP.MVC C# JSON IHtmlString
+tags: asp-net-mvc c-sharp json ihtmlstring
 category: dev
 excerpt_separator: <!--more-->
 ---
