@@ -1,10 +1,10 @@
 ---
 layout: home
 show_excerpts: true
-title: "Tag: Xamarin.Forms"
-permalink: /tag/xamarin-forms/
+title: "Tag: UIImageView"
+permalink: /tag/uiimageview/
 pagination:
-  tag: xamarin-forms
+  tag: uiimageview
   enabled: true
   per_page: 10
   permalink: /page/:num/

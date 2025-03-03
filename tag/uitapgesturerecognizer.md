@@ -1,10 +1,10 @@
 ---
 layout: home
 show_excerpts: true
-title: "Tag: Xamarin.Forms"
-permalink: /tag/xamarin-forms/
+title: "Tag: UITapGestureRecognizer"
+permalink: /tag/uitapgesturerecognizer/
 pagination:
-  tag: xamarin-forms
+  tag: uitapgesturerecognizer
   enabled: true
   per_page: 10
   permalink: /page/:num/

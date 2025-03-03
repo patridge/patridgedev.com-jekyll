@@ -4,7 +4,7 @@ show_excerpts: true
 title: "Tag: Xamarin.Android"
 permalink: /tag/xamarin-android/
 pagination:
-  tag: xamarin.android
+  tag: xamarin-android
   enabled: true
   per_page: 10
   permalink: /page/:num/

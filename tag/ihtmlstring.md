@@ -1,10 +1,10 @@
 ---
 layout: home
 show_excerpts: true
-title: "Tag: Xamarin.Forms"
-permalink: /tag/xamarin-forms/
+title: "Tag: IHtmlString"
+permalink: /tag/ihtmlstring/
 pagination:
-  tag: xamarin-forms
+  tag: ihtmlstring
   enabled: true
   per_page: 10
   permalink: /page/:num/
