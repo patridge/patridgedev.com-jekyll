@@ -25,6 +25,7 @@ GEM
     ffi (1.17.1-x86_64-linux-musl)
     forwardable-extended (2.6.0)
     google-protobuf (3.25.6)
+    google-protobuf (3.25.6-x86_64-linux)
     http_parser.rb (0.8.0)
     i18n (1.14.6)
       concurrent-ruby (~> 1.0)
