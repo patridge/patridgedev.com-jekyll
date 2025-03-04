@@ -37,10 +37,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
+# Required for local serve (`bundle exec jekyll serve`)
 gem "csv", "~> 3.3"
-
 gem "logger", "~> 1.6"
-
 gem "base64", "~> 0.2.0"
-
 gem "bigdecimal", "~> 3.1"
