@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: CocosSharp"
 permalink: /tag/cocossharp/
+redirect_from:
+  - /tag/CocosSharp/
 pagination:
   tag: cocossharp
   enabled: true

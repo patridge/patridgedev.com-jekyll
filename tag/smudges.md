@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: Smudges"
 permalink: /tag/smudges/
+redirect_from:
+  - /tag/Smudges/
 pagination:
   tag: smudges
   enabled: true

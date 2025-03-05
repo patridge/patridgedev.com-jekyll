@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: JavaScriptSerializer"
 permalink: /tag/javascriptserializer/
+redirect_from:
+  - /tag/JavaScriptSerializer/
 pagination:
   tag: javascriptserializer
   enabled: true

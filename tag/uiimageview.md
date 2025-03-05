@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: UIImageView"
 permalink: /tag/uiimageview/
+redirect_from:
+  - /tag/UIImageView/
 pagination:
   tag: uiimageview
   enabled: true

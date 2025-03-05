@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: PowerShell"
 permalink: /tag/powershell/
+redirect_from:
+  - /tag/PowerShell/
 pagination:
   tag: powershell
   enabled: true

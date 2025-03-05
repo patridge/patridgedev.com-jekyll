@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: JavaScript"
 permalink: /tag/javascript/
+redirect_from:
+  - /tag/JavaScript/
 pagination:
   tag: javascript
   enabled: true

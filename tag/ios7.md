@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: iOS 7"
 permalink: /tag/ios-7/
+redirect_from:
+  - /tag/iOS-7/
 pagination:
   tag: ios-7
   enabled: true

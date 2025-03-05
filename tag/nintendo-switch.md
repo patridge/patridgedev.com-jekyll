@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: Nintendo Switch"
 permalink: /tag/nintendo-switch/
+redirect_from:
+  - /tag/Nintendo-Switch/
 pagination:
   tag: nintendo-switch
   enabled: true

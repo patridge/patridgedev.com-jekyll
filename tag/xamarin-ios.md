@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: Xamarin.iOS"
 permalink: /tag/xamarin-ios/
+redirect_from:
+  - /tag/Xamarin-iOS/
 pagination:
   tag: xamarin-ios
   enabled: true

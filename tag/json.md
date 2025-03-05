@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: JSON"
 permalink: /tag/json/
+redirect_from:
+  - /tag/JSON/
 pagination:
   tag: json
   enabled: true

@@ -3,6 +3,9 @@ layout: home
 show_excerpts: true
 title: "Tag: Json.NET"
 permalink: /tag/json-net/
+redirect_from:
+  - /tag/JSON.NET/
+  - /tag/Json.NET/
 pagination:
   tag: json-net
   enabled: true

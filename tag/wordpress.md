@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: WordPress"
 permalink: /tag/wordpress/
+redirect_from:
+  - /tag/WordPress/
 pagination:
   tag: wordpress
   enabled: true

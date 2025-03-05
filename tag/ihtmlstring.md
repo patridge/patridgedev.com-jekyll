@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: IHtmlString"
 permalink: /tag/ihtmlstring/
+redirect_from:
+  - /tag/IHtmlString/
 pagination:
   tag: ihtmlstring
   enabled: true

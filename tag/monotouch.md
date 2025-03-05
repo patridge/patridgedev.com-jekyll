@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: MonoTouch"
 permalink: /tag/monotouch/
+redirect_from:
+  - /tag/MonoTouch/
 pagination:
   tag: monotouch
   enabled: true

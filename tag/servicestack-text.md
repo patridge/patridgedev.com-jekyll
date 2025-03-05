@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: ServiceStack.Text"
 permalink: /tag/servicestack-text/
+redirect_from:
+  - /tag/ServiceStack-Text/
 pagination:
   tag: servicestack-text
   enabled: true

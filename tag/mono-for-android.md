@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: Mono for Android"
 permalink: /tag/mono-for-android/
+redirect_from:
+  - /tag/Mono-for-Android/
 pagination:
   tag: mono-for-android
   enabled: true

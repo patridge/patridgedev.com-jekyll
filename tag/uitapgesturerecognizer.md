@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: UITapGestureRecognizer"
 permalink: /tag/uitapgesturerecognizer/
+redirect_from:
+  - /tag/UITapGestureRecognizer/
 pagination:
   tag: uitapgesturerecognizer
   enabled: true

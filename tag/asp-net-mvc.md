@@ -3,6 +3,9 @@ layout: home
 show_excerpts: true
 title: "Tag: ASP.NET MVC"
 permalink: /tag/asp-net-mvc/
+redirect_from:
+  - /tag/ASP-NET-MVC/
+  - /tag/ASP-NET%20MVC/
 pagination:
   tag: asp-net-mvc
   enabled: true

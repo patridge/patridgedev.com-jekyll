@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: IIS"
 permalink: /tag/iis/
+redirect_from:
+  - /tag/IIS/
 pagination:
   tag: iis
   enabled: true

@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: AVAudioPlayer"
 permalink: /tag/avaudioplayer/
+redirect_from:
+  - /tag/AVAudioPlayer/
 pagination:
   tag: avaudioplayer
   enabled: true

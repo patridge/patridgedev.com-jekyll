@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: MonoDevelop"
 permalink: /tag/monodevelop/
+redirect_from:
+  - /tag/MonoDevelop/
 pagination:
   tag: monodevelop
   enabled: true

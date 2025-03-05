@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: Xamarin"
 permalink: /tag/xamarin/
+redirect_from:
+  - /tag/Xamarin/
 pagination:
   tag: xamarin
   enabled: true

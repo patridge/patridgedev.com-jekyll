@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: API"
 permalink: /tag/api/
+redirect_from:
+  - /tag/API/
 pagination:
   tag: api
   enabled: true

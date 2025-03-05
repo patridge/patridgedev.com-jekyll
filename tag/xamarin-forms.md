@@ -3,6 +3,8 @@ layout: home
 show_excerpts: true
 title: "Tag: Xamarin.Forms"
 permalink: /tag/xamarin-forms/
+redirect_from:
+  - /tag/Xamarin-Forms/
 pagination:
   tag: xamarin-forms
   enabled: true
