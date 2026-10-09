@@ -16,27 +16,33 @@ EmojiPuncher is the first game out of EmojiGames, PatridgeDev's collection of sm
 
 Launch your character's head with a tap or a drag-and-fling, and its ragdoll arms swing along behind it. Use that unpredictable, physics-driven momentum to land arm swings on incoming enemies, rack up points, and survive wave after escalating wave.
 
-![Punch with physics as your character's ragdoll arms swing into enemies.](../../images/emojigames/puncher/screenshot-punch-with-physics.png)
+![Punch your enemies as your character's ragdoll arms swing into them.](../../images/emojigames/puncher/screenshot-01-punch-your-enemies.png)
 
 As the swarm grows, spin your fighter through clusters of enemies to clear them out faster than you can pick them off one at a time.
 
-![Spin into the swarm to take out multiple enemies at once.](../../images/emojigames/puncher/screenshot-spin-into-the-swarm.png)
+![Spin and strike to survive as enemies close in.](../../images/emojigames/puncher/screenshot-03-spin-and-strike-to-survive.png)
+
+![Smash through enemy waves.](../../images/emojigames/puncher/screenshot-04-smash-through-enemy-waves.png)
 
 ## Waves and Bosses
 
 Each wave ramps up the challenge, throwing more enemies and tougher patterns your way. Survive long enough and you'll come face-to-face with oversized bosses, like the Hive Queen, who take a lot more punishment (and a lot more spinning) to put down.
 
-![Survive wild waves of ever-increasing enemies.](../../images/emojigames/puncher/screenshot-survive-wild-waves.png)
+![Take on the boss.](../../images/emojigames/puncher/screenshot-08-take-on-the-boss.png)
 
-![Spin at the Hive Queen and other oversized bosses.](../../images/emojigames/puncher/screenshot-spin-at-the-hive-queen.png)
-
-![Take on big bosses that need a lot more punishment to put down.](../../images/emojigames/puncher/screenshot-take-on-big-bosses.png)
+![Destroy the boss.](../../images/emojigames/puncher/screenshot-09-destroy-the-boss.png)
 
 ## Make It Your Fighter
 
 Customize your character's face and skin tone before you jump in, then chase a higher score through the campaign with a fighter that actually looks like yours.
 
-![Make it your fighter by customizing face and skin tone.](../../images/emojigames/puncher/screenshot-make-it-your-fighter.png)
+![Make the hero your own with a custom face and skin tone.](../../images/emojigames/puncher/screenshot-05-make-the-hero-your-own.png)
+
+![Bring your own style with any emoji.](../../images/emojigames/puncher/screenshot-06-bring-your-own-style.png)
+
+![Custom hero destruction, even in light mode.](../../images/emojigames/puncher/screenshot-07-custom-hero-destruction.png)
+
+![Play in dark or light mode.](../../images/emojigames/puncher/screenshot-02-dark-or-light-mode.png)
 
 ## Availability
 
