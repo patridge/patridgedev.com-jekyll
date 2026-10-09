@@ -60,6 +60,7 @@ plugins:
 header_pages:
   - about-me.md
   - smudges/index.md
+  - emojigames/puncher/index.md
 
 include: [
   "/.well-known"
