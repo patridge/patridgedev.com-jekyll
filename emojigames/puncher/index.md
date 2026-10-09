@@ -6,7 +6,7 @@ permalink: /emojigames/puncher/
 
 ## A Playful, Physics-Driven Emoji Brawler
 
-> Tap to launch your character or drag and fling its head, then let the swinging ragdoll body collide with incoming enemies, earn points, advance through escalating waves, and take on oversized bosses. It's EmojiPuncher, built entirely with emoji.
+> Tap to launch your character or drag and fling its head, then let its swinging ragdoll arms collide with incoming enemies, earn points, advance through escalating waves, and take on oversized bosses. It's EmojiPuncher, built entirely with emoji.
 
 ![EmojiPuncher app icon.](../../images/emojigames/puncher/icon-200.png)
 
@@ -14,9 +14,9 @@ EmojiPuncher is the first game out of EmojiGames, PatridgeDev's collection of sm
 
 ## Gameplay
 
-Launch your character's head with a tap or a drag-and-fling, and the rest of the ragdoll body swings along behind it. Use that unpredictable, physics-driven momentum to smash into incoming enemies, rack up points, and survive wave after escalating wave.
+Launch your character's head with a tap or a drag-and-fling, and its ragdoll arms swing along behind it. Use that unpredictable, physics-driven momentum to land arm swings on incoming enemies, rack up points, and survive wave after escalating wave.
 
-![Punch with physics as your character's ragdoll body swings into enemies.](../../images/emojigames/puncher/screenshot-punch-with-physics.png)
+![Punch with physics as your character's ragdoll arms swing into enemies.](../../images/emojigames/puncher/screenshot-punch-with-physics.png)
 
 As the swarm grows, spin your fighter through clusters of enemies to clear them out faster than you can pick them off one at a time.
 
