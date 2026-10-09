@@ -16,6 +16,8 @@ gem 'sass-embedded', '1.77.0'
 # sass-embedded depends on google-protobuf, whose 4.36.0+ releases also require Ruby >= 3.2.
 # Lock to the newest version that still supports Ruby 3.1.
 gem 'google-protobuf', '4.35.1'
+# public_suffix 7.x requires Ruby >= 3.2; keep the 6.x line for Ruby 3.1.
+gem 'public_suffix', '< 7'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
