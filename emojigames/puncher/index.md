@@ -47,3 +47,5 @@ Customize your character's face and skin tone before you jump in, then chase a h
 ## Availability
 
 EmojiPuncher is currently in beta testing through TestFlight, with a focus on refining controls, collision behavior, game balance, sound, performance, and compatibility across different iPhone sizes. Feedback from testers is greatly appreciated and goes directly into improving the game before a wider release.
+
+For help, feedback, or feature requests, visit [EmojiGames Support](/emojigames/support/).
