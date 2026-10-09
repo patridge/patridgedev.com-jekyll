@@ -9,10 +9,13 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.3.3"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "= 2.5.1"
-# GitHub is using an older version of Ruby. The latest sass-embedded sub-dependency requires a newer version.
-# Try to lock to a version supported by ruby 3.1.4.
-gem 'sass-embedded', '1.55.0'
+gem "minima", "= 2.5.2"
+# GitHub Pages builds with Ruby 3.1. Newer sass-embedded releases (1.77.1+) require Ruby >= 3.2,
+# so lock to the newest version that still supports Ruby 3.1.
+gem 'sass-embedded', '1.77.0'
+# sass-embedded depends on google-protobuf, whose 4.36.0+ releases also require Ruby >= 3.2.
+# Lock to the newest version that still supports Ruby 3.1.
+gem 'google-protobuf', '4.35.1'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
